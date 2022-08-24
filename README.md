@@ -6,7 +6,7 @@ I am a full-stack software engineer from Moldova :moldova:.
 
 #### About me
 
-- Software Development Consultant at [Endava](https://endava.com) <img src="https://www.endava.com/Design/favicon.ico" height="15">
+- Software Development Lead at [Key IVR](https://keyivr.com) <img src="https://www.keyivr.com/wp-content/uploads/2017/07/Key-IVR-Logo.png" alt="Key IVR" height="15">
 - Maintainer of [AutoFixture](https://github.com/AutoFixture/AutoFixture) <img src="https://github.com/AutoFixture/AutoFixture/blob/master/AutoFixtureLogo200x200.png?raw=true" height="15" />
 - I contribute to Open Source software
 - I answer questions on Stack Overflow
