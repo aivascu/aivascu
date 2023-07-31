@@ -14,7 +14,7 @@ I am a full-stack software engineer from Moldova :moldova:.
 
 #### Stack Overflow
 
-I monitor frequently the .NET realm of Stack Overflow. I focus mainly the [autofixture](https://stackoverflow.com/questions/tagged/autofixture) and [unit-testing](https://stackoverflow.com/questions/tagged/unit-testing) tags.
+I monitor frequently the .NET realm of Stack Overflow. My main focus are the [autofixture](https://stackoverflow.com/questions/tagged/autofixture) and [unit-testing](https://stackoverflow.com/questions/tagged/unit-testing) tags.
 
 <a href="https://stackoverflow.com/users/2542567/andrei-ivascu"><img src="https://stackoverflow.com/users/flair/2542567.png" width="208" height="58" alt="Andrei Ivascu's profile at Stack Overflow" title="Andrei Ivascu profile at Stack Overflow"></a>
 
